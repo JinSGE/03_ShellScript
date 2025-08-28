@@ -1,0 +1,3 @@
+username:team02
+password:team02
+email:team02@example.com

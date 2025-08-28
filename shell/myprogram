@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true
+do
+	date >> /tmp/date.log
+	sleep 30
+done
